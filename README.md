@@ -1,5 +1,5 @@
 ### Hi, I'm EvilC0der!
-a computer hobbyist...
+a hobbyist for computer technology...
 
 EvilC0der was here... :-)
 
