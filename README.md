@@ -1,9 +1,6 @@
 ### Hi, I'm EvilC0der!
-a hobbyist...
 
-EvilC0der was here... :-)
-
-
+I’m currently learning programming ...
 
 <!--
 **EvilC0der/EvilC0der** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
